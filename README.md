@@ -1,4 +1,4 @@
-پ# 🏪 StoreCRM — Smart Store Management System (WPF)
+ 🏪 StoreCRM — Smart Store Management System (WPF)
 
 **StoreCRM** is a Windows Presentation Foundation (WPF)-based CRM system designed for businesses and stores that need an efficient and user-friendly tool to manage customers, products, invoices, users, and daily activities — all in one place.
 
@@ -119,10 +119,9 @@ Your support helps me continue improving and building more projects.
 
 ---
 
-## 🇮🇷 توضیحات فارسی
-
 **StoreCRM** یک نرم‌افزار CRM فروشگاهی مبتنی بر **WPF** است که برای مدیریت کامل مشتریان، کالاها، فاکتورها، کاربران، فعالیت‌ها و گزارش‌ها طراحی شده است.  
 این ریپازیتوری فقط شامل **ویدیو، اسکرین‌شات و توضیحات دمو** است و کدها در مخزن خصوصی نگهداری می‌شوند.
+
 
 ### قابلیت‌ها:
 - داشبورد داینامیک با اطلاعات روزانه  
