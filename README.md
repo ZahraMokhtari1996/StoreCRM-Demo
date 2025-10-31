@@ -77,7 +77,7 @@
 [▶️ Watch Demo](assets/demo/demo.mp4)
 
 🖼️ **Screenshots:**
-| Dashboard | Customer Management | Invoice |
+| Dashboard | Customer Management | Invoice | Activity | Categories | Exit | Login | Product Management | Reminder | Reports |SMS Panel | Users+Access Roles |
 |------------|--------------------|----------|
 | ![Dashboard](assets/Screenshots/dashboard.png) | ![Customers](assets/Screenshots/customers.png) | ![Invoice](assets/Screenshots/invoice.png) | ![Activity](assets/Screenshots/activity.png)  ![Categories](assets/Screenshots/categories.png)  ![Exit](assets/Screenshots/exit.png)  ![Login](assets/Screenshots/login.png)  ![Products](assets/Screenshots/products.png)  ![Reminder](assets/Screenshots/reminder.png)  ![Reports](assets/Screenshots/reports.png)  ![SMS panel](assets/Screenshots/SMS panel.png)  ![Users+Access Roles](assets/Screenshots/users+access roles.png) 
 
