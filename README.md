@@ -74,7 +74,7 @@
 ## 🖼️ Demo & Screenshots
 
 🎥 **Demo Video:**  
-[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1a9_7JuQSfREbNf2MC07RufSFkJWHe_TZ/view?usp=sharing)
+https://github.com/ZahraMokhtari1996/StoreCRM-Demo/releases/tag/v1.0-demo
 
 🖼️ **Screenshots:**
 | Dashboard | Customer Management | Invoice | Activity | Categories | Exit | Login | Product Management | Reminder | Reports |SMS Panel | Users+Access Roles |
