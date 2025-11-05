@@ -74,7 +74,7 @@
 ## 🖼️ Demo & Screenshots
 
 🎥 **Demo Video:**  
-https://github.com/ZahraMokhtari1996/StoreCRM-Demo/releases/tag/v1.0-demo
+[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1a9_7JuQSfREbNf2MC07RufSFkJWHe_TZ/view?usp=sharing)
 
 🖼️ **Screenshots:**
 | Dashboard | Customer Management | Invoice | Activity | Categories | Exit | Login | Product Management | Reminder | Reports |SMS Panel | Users+Access Roles |
@@ -121,6 +121,8 @@ Your support helps me continue improving and building more projects.
 
 **StoreCRM** یک نرم‌افزار CRM فروشگاهی مبتنی بر **WPF** است که برای مدیریت کامل مشتریان، کالاها، فاکتورها، کاربران، فعالیت‌ها و گزارش‌ها طراحی شده است.  
 این ریپازیتوری فقط شامل **ویدیو، اسکرین‌شات و توضیحات دمو** است و کدها در مخزن خصوصی نگهداری می‌شوند.
+### دموی زیر را برای آشنایی بیشتر با پروژه تماشا کنید:
+https://drive.google.com/file/d/1eXgTxW9k4m2w6n_sFkCQgif8b4-WVXFR/view?usp=sharing
 
 
 ### قابلیت‌ها:
