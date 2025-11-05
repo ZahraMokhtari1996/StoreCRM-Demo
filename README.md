@@ -74,7 +74,7 @@
 ## 🖼️ Demo & Screenshots
 
 🎥 **Demo Video:**  
-[Watch Demo Video](https://drive.google.com/uc?export=preview&id=1a9_7JuQSfREbNf2MC07RufSFkJWHe_TZ)
+[🎥 Watch Demo Video on Google Drive](https://drive.google.com/file/d/1a9_7JuQSfREbNf2MC07RufSFkJWHe_TZ/view?usp=sharing)
 
 🖼️ **Screenshots:**
 | Dashboard | Customer Management | Invoice | Activity | Categories | Exit | Login | Product Management | Reminder | Reports |SMS Panel | Users+Access Roles |
