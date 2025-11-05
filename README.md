@@ -74,7 +74,7 @@
 ## 🖼️ Demo & Screenshots
 
 🎥 **Demo Video:**  
-[▶️ Watch Demo](assets/demo/demo.mp4)
+[▶️ Watch Demo](assets/Demo-Videos/Crm-English.mp4)
 
 🖼️ **Screenshots:**
 | Dashboard | Customer Management | Invoice | Activity | Categories | Exit | Login | Product Management | Reminder | Reports |SMS Panel | Users+Access Roles |
